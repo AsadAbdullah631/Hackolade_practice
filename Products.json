@@ -1,0 +1,52 @@
+[
+    {
+        "prod_id": "Lorem",
+        "create_date": "2023-09-27T05:07:29.020Z",
+        "cat_id": "Lorem",
+        "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "name": "Refined Bronze Gloves",
+        "update_date": ISODate("2016-04-08T15:06:21.595Z"),
+        "stocks_quantity": 1177579113414656,
+        "price": 50
+    },
+    {
+        "prod_id": "Lorem",
+        "create_date": "2024-07-07T17:38:30.366Z",
+        "cat_id": "Lorem",
+        "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "name": "Practical Frozen Table",
+        "update_date": ISODate("2016-04-08T15:06:21.595Z"),
+        "stocks_quantity": 6328128758611968,
+        "price": 459
+    },
+    {
+        "prod_id": "Lorem",
+        "create_date": "2024-06-22T01:29:32.036Z",
+        "cat_id": "Lorem",
+        "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "name": "Bespoke Fresh Keyboard",
+        "update_date": ISODate("2016-04-08T15:06:21.595Z"),
+        "stocks_quantity": 4578291245645824,
+        "price": 790
+    },
+    {
+        "prod_id": "Lorem",
+        "create_date": "2023-06-29T07:33:29.990Z",
+        "cat_id": "Lorem",
+        "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "name": "Bespoke Fresh Chicken",
+        "update_date": ISODate("2016-04-08T15:06:21.595Z"),
+        "stocks_quantity": 4793620594950144,
+        "price": 562
+    },
+    {
+        "prod_id": "Lorem",
+        "create_date": "2024-10-28T14:48:44.392Z",
+        "cat_id": "Lorem",
+        "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "name": "Generic Granite Towels",
+        "update_date": ISODate("2016-04-08T15:06:21.595Z"),
+        "stocks_quantity": 8517011428605952,
+        "price": 620
+    }
+]
